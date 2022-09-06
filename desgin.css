@@ -1,0 +1,212 @@
+.center{
+    text-align: center;
+    background-image: url(https://www.shihoriobata.com/wp-content/uploads/2020/12/aesthetic-background-thumbnail.jpg);
+    width: 100%;
+    height: 100vh;
+    /* background-repeat: no-repeat; */
+    
+}
+.all{
+    font-family: "Raleway", sans-serif
+}
+.col{
+    color:red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.heading{
+    position: absolute;
+    top: 55%;
+    left: 50%;  
+    color: white;
+}
+.navbar{
+    background-color: black;
+    /* border-radius: 35px; */
+    color: white;
+    padding: 5px;
+    text-align: right;
+
+}
+.header{
+    position: sticky !important;
+    top: 0;
+    width: 100%;
+}
+.ab{
+    text-align: center;
+    color: brown;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+.mp{
+    text-align: center;
+    color: white;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.co{
+    text-align: center;
+    color: white;
+}
+.na{
+    padding: 10px;
+    margin: 10px;
+    background-color: #1e242c;
+    color: white;    
+}
+.ee{
+    padding: 10px;
+    margin: 10px;
+    background-color: #1e242c;
+    color: white;
+}
+.me{
+    padding: 5px;
+    margin: 10px;
+    height: 100px;
+    background-color: #1e242c;
+    color: white;
+}
+.row-col{
+    background-color: #252934;
+    margin-top: 40px;
+}
+.ha{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.coulmn-side{
+    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-left: 180px;
+    padding-right: 180px
+}
+.butt{
+    width: 30%;
+    background-color: #1e242c;
+    padding: 15px 5px;
+    color: white;
+    margin-left: 310px;
+}
+.roow{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    justify-content: end;
+    
+}
+.ok{
+    text-decoration: none;
+    list-style: none;
+    margin: 15px;
+}
+.navbar a li:hover{
+    color: red;
+    
+}
+.norm{
+    background-color: green;
+    width: 85%;
+    height: 25px;
+}
+.fix{
+    background-color: skyblue;
+    width: 15%;
+    height: 25px;
+}
+.c1{
+    margin: 5%;
+    padding: 3%;
+    text-align: center;
+}
+.norm1{
+    background-color: green;
+    width: 55%;
+    height: 25px;
+}
+.fix1{
+    background-color:skyblue;
+    width: 45%;
+    height: 25px;
+}
+.norm2{
+      background-color: green;
+      width: 95%;
+      height: 25px;
+}
+.fix2{
+     background-color: skyblue;
+     width: 5%;
+     height: 25px;
+}
+.norm3{
+    background-color: green;
+    width: 85%;
+    height: 25px;
+}
+.fix3{
+    background-color: skyblue;
+     width: 15%;
+     height: 25px;
+}
+.norm4{
+    background-color: green;
+    width: 95%;
+    height: 25px;
+}
+.fix4{
+    background-color: skyblue;
+    width: 5%;
+    height: 25px;
+}
+.norm5{
+    background-color: green;
+    width: 35%;
+    height: 25px;
+}
+.fix5{
+    background-color: skyblue;
+    width: 65%;
+    height: 25px;
+}
+.imgsize{
+    width: 147.45px;
+    height: 200px;
+    margin-top: 10%;
+}
+.imgpro{
+    width:100% ;
+    height: 170px ;
+    /* padding: 100px; */
+}
+.proj{
+    width: 100%;
+    /* margin: 0%; */
+    /* padding-bottom: 100px; */
+    /* padding: 100px; */
+}.block2{
+    text-align: center;
+    height: 50%;
+    
+}
+.imgsize:hover{
+    transform: scale(1.5);
+    overflow: hidden;
+}
+.fl{
+    float: right7;
+}

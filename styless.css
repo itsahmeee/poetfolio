@@ -1,0 +1,24 @@
+.hdd{
+    color:red;
+    text-align: center;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfADvmVGQ36FmHxo448tTOpt-_uuEmPwOD7w&usqp=CAU)
+        }
+.bold{ background-color: black;
+
+}
+li{
+    float: left;
+    margin: 12px;
+}
+a{
+    background-color: red;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+
+

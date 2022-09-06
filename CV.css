@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.column{
+   display: flex;
+   flex-direction: column;
+   
+}
+.background{
+    background-color: blanchedalmond;
+}
+.margin{
+    padding: 20px;
+}
