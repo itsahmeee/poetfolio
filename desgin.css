@@ -338,3 +338,61 @@ body{
 .c4{
     margin-top: 40px;
 }
+@media(max-width:576px){
+    .all{
+        width: 100vw!important;
+        overflow: hidden;
+    }
+    .r5{
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    .c1{
+        width: 100vw;
+    }
+    .r6{
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    .nor{
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    .w1{
+        width: 88vw;
+    }
+    .block2{
+        width: 88vw;
+        text-align: left;
+        padding-left: 0%;
+    }
+    .row-col{
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    .col{
+        top: 50%;
+        left: 5%;
+        font-size: 35px;
+    }
+    .heading{
+        top: 54%;
+        left: 8%;
+    }
+    .coulmn-side{
+        padding: 0;
+    }
+    .butt{
+        margin-left: 66%;
+    }
+    .map{
+        margin-left: 0;
+    }
+    .mp{
+        margin: 0;
+    }
+}
