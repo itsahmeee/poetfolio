@@ -16,16 +16,18 @@ body{
 .col{
     color:black;
     position: absolute;
-    top: 46%;
-    left: 33%;
+    /* top: 46%; */
+    /* left: 33%; */
     font-size: 2.8em;
+    transform: translate(428px,292px);
 }
 .heading{
     position: absolute;
-    top: 54%;
-    left: 40%;  
+    /* top: 54%; */
+    /* left: 40%;   */
     color: white;
     font-size: 1.8em;
+    transform: translate(510px,350px);
 }
 .navbar{
     background-color: black;
@@ -121,10 +123,11 @@ body{
     padding: 10px;
 }
 .coulmn-side{
-    padding-bottom: 100px;
-    padding-top: 50px;
-    padding-left: 180px;
-    padding-right: 50px;
+    /* padding-bottom: 100px; */
+    /* padding-top: 50px; */
+    /* padding-left: 180px; */
+    /* padding-right: 50px; */
+    padding: 100px;
 }
 .butt{
     width: 30%;
@@ -132,6 +135,7 @@ body{
     padding: 15px 5px;
     color: white;
     margin-left: 80%;
+    /* float: left; */
     transition: all 0.2s;
     cursor: pointer;
     border: 1px solid white;
@@ -142,12 +146,12 @@ body{
 .roow{
     display: flex;
     flex-direction: row;
-    justify-content: left;
+    /* justify-content: left; */
     justify-content: end;
     margin: auto;
     
 }
-.ok{
+.nav1{
     text-decoration: none;
     list-style: none;
     margin: 15px;
@@ -244,7 +248,8 @@ body{
 .proj{
     /* margin: 0%; */
     /* padding-bottom: 100px; */
-}.block2{
+}
+.block2{
     text-align: center;
     height: 50%;
     
@@ -259,7 +264,7 @@ body{
 .ahmad{
     color: #e31b6d;
 }
-.abu{
+.about1{
     background-color: hsl(0, 0%, 95%);
     margin: -2%;
     padding: 3%;
@@ -294,6 +299,8 @@ body{
 .c2{
     align-items: center;
     margin-bottom: 60px;
+    /* width:100px; */
+    /* height:100px; */
 }
 .hh{
     margin-bottom: 0;
