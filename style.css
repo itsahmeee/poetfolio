@@ -1,0 +1,339 @@
+body{
+    margin: 0;
+}
+
+.center{
+    text-align: center;
+    background-image: url(https://www.shihoriobata.com/wp-content/uploads/2020/12/aesthetic-background-thumbnail.jpg);
+    width: 100%;
+    height: 100vh;
+    
+}
+.all{
+    font-family: "Raleway", sans-serif
+}
+.col{
+    color:black;
+    position: absolute;
+   
+    font-size: 2.8em;
+    transform: translate(428px,292px);
+}
+.heading{
+    position: absolute;
+   
+    color: white;
+    font-size: 1.8em;
+    transform: translate(510px,350px);
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 0px 10px;
+    text-align: right;
+    padding: 0px 25px;
+
+
+}
+.header{
+    position: sticky !important;
+    top: 0;
+    width: 100%;
+}
+.ab{
+    text-align: center;
+    color: black;
+    padding-top: 40px;
+    margin: 0;
+    font-size: 2.8em;
+}
+.ba{
+    text-align: center;
+    color: black;
+    font-size: 2.8em;
+    padding-top: 20px;
+    margin: 0;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+    
+}
+.mp{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.co{
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+.na{
+    padding: 18px;
+   
+    background-color: #1e242c;
+    color: white;  
+    width: 100%;
+    margin-top: 20px;
+    border: 0;  
+}
+.ee{
+    padding: 18px;
+    
+    width: 100%;
+    margin-top: 20px;
+    border: 0;
+    background-color: #1e242c;
+    color: white;
+}
+.me{
+    padding: 18px;
+   
+    height: 100px;
+    background-color: #1e242c;
+    color: white;
+    width: 100%;
+    border: 0;
+    margin-top: 10px;
+}
+.row-col{
+    background-color: #252934;
+   
+}
+.ha{
+    color: lightskyblue;
+    margin: 10px;
+    padding: 10px;
+}
+.coulmn-side{
+   
+    padding: 100px;
+}
+.butt{
+    width: 30%;
+    background-color: #1e242c;
+    padding: 15px 5px;
+    color: white;
+    margin-left: 80%;
+  
+    transition: all 0.2s;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.butt:hover{
+    background-color: blue;
+}
+.roow{
+    display: flex;
+    flex-direction: row;
+   
+    justify-content: end;
+    margin: auto;
+    
+}
+.nav1{
+    text-decoration: none;
+    list-style: none;
+    margin: 15px;
+    padding: 0 20px;
+    color: white;
+}
+.navbar a li:hover{
+    color: red;
+}
+.norm{
+    background-color: green;
+    width: 85%;
+    height: 20px;
+    text-align: end;
+}
+.fix{
+    background-color: skyblue;
+    width: 15%;
+    height: 20px;
+}
+.c1{
+    width: 25%;
+
+}
+.norm1{
+    background-color: green;
+    width: 55%;
+    height: 20px;
+    text-align: end;
+}
+.fix1{
+    background-color:skyblue;
+    width: 45%;
+    height: 20px;
+}
+.norm2{
+      background-color: green;
+      width: 95%;
+      height: 20px;
+      text-align: end;
+}
+.fix2{
+     background-color: skyblue;
+     width: 300%;
+     height: 20px;
+}
+.norm3{
+    background-color: green;
+    width: 85%;
+    height: 20px;
+    text-align: end;
+}
+.fix3{
+    background-color: skyblue;
+     width: 15%;
+     height: 20px;
+}
+.norm4{
+    background-color: green;
+    width: 95%;
+    height: 20px;
+    text-align: end;
+}
+.fix4{
+    background-color: skyblue;
+    width: 5%;
+    height: 20px;
+}
+.norm5{
+    background-color: green;
+    width: 35%;
+    height: 20px;
+    text-align: end;
+}
+.fix5{
+    background-color: skyblue;
+    width: 65%;
+    height: 20px;
+}
+.imgsize{
+    width: 100%;
+    height: 200px;
+    margin-top: 10%;
+}
+.imgpro{
+    width:100% ;
+    height: 170px ;
+    /* padding: 100px; */
+    margin: -2px;
+}
+.column-image{
+    width: 30%;
+    padding-bottom: 70px;
+}
+
+.block2{
+    text-align: center;
+    height: 50%;
+    
+}
+.imgsize:hover{
+    transform: scale(1.5);
+    overflow: hidden;
+}
+.fl{
+    float: right;
+}
+.ahmad{
+    color: #e31b6d;
+}
+.about1{
+    background-color: hsl(0, 0%, 95%);
+    margin: -2%;
+    padding: 3%;
+    max-width: 102%;
+    box-sizing: border-box;
+}
+.blo{
+    padding-top: 25px;
+    padding-bottom: 70px;
+    /* margin: 20px; */
+    margin-bottom: 0;
+}
+.nor{
+    margin-left: 35px;
+}
+.map{
+    margin-left: 20px;
+}
+.gog{
+    margin-top: 60px;
+}
+.row-margin{
+    width: 100%;
+}
+.off{
+    margin: 0;
+}
+.hrr{
+    margin-left: 0;
+}
+.it{
+    text-align: center;
+}
+.c2{
+    align-items: center;
+    margin-bottom: 60px;
+   
+}
+.hh{
+    margin-bottom: 0;
+}
+.rh{
+    margin-bottom: 80px;
+}
+.fotter{
+    background: #1b242f;
+    color: white;
+}
+.fotter-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1b242f;
+    color: white;
+   
+}
+.icon{
+    height: 40px;
+    width: 50px;
+    background-color: #262f38;
+    margin: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 12px;
+}
+.icon:hover{
+    background-color: aquamarine;
+}
+.ic{
+   padding-top: 50px;
+}
+.ico{
+     padding-bottom: 40px;
+}
+.c3{
+    margin: 30px;
+    margin-top: 40px;
+}
+.c4{
+    margin-top: 40px;
+}
